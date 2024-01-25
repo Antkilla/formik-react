@@ -1,9 +1,11 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 import ContactForm from "./components/ContactForm";
 
 function App() {
   return (
     <div>
-      <h1>HELLO WORLD </h1>
       <ContactForm/>
     </div>
   );
